@@ -15,6 +15,22 @@ Process scheduling and resource-management simulation written in C. The program 
 - Round Robin (configurable time quantum)
 - First-Come-First-Served (FCFS)
 
+## Requirements
+
+- GCC with OpenMP support
+- Make
+- macOS or Linux environment
+
+## Languages and Techstack
+
+<div align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="50" alt="gcc logo" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/make/make-original.svg" height="50" alt="make logo" />
+</div>
+
 ## Build
 
 From [proj1](proj1), run:
@@ -65,12 +81,6 @@ Each thread/process writes logs to `thr<N>.log` and `thr<N>.out` in [proj1](proj
 - Resource acquisition or waiting
 - Release results and allocation snapshots
 - Send/receive message events
-
-## Requirements
-
-- GCC with OpenMP support
-- Make
-- macOS or Linux environment
 
 ## Future Improvements
 
