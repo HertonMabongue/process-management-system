@@ -86,8 +86,9 @@ Each thread/process writes logs to `thr<N>.log` and `thr<N>.out` in [proj1](proj
 
 - Implement deadlock detection
 
-## Author
+### Contact Me
 
-HERTON CABRAL MABONGUE
+**Herton Cabral Mabongue**
 
-contactherton@gmail.com
+[![Email](https://img.shields.io/badge/Email-contactherton@gmail.com-blue?style=flat&logo=gmail)](mailto:contactherton@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-HertonMabongue-black?style=flat&logo=github)](https://github.com/HertonMabongue)
